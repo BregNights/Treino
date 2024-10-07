@@ -60,6 +60,5 @@ section img {
 }
 
 section:hover {
-    cursor: pointer;
     border: 10px solid gray;
 }
